@@ -1,9 +1,9 @@
 
-const name = "name";
+const name = "หน๋องอัน";
 document.getElementById("name").innerText = name;
 
 const quotes = [
-  "กดทำไมกั่ยแก่ ❤️",
+  "กดทำไมกั่ยแก่ ฉิบเก้าขวบ ❤️",
 ];
 
 let speed=[5.6,6.8,6,7,7.6,6,5,6.6,8,5]
